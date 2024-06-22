@@ -6,7 +6,7 @@
   <link href="https://smpblog.github.io/atom.xml" rel="self"/>
   
   <link href="https://smpblog.github.io/"/>
-  <updated>2024-06-20T07:43:17.033Z</updated>
+  <updated>2024-06-22T11:09:53.681Z</updated>
   <id>https://smpblog.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>到了！</title>
+    <link href="https://smpblog.github.io/posts/59e2649c.html"/>
+    <id>https://smpblog.github.io/posts/59e2649c.html</id>
+    <published>2024-06-22T04:59:00.000Z</published>
+    <updated>2024-06-22T11:09:53.681Z</updated>
+    
+    <content type="html"><![CDATA[<h1>到了WWDC24</h1><h2 id="WWDC-是什么">WWDC 是什么</h2><p>WWDC 是什么 <em>以下是 ChatGPT 的回答</em></p><p>WWDC，全称是Worldwide Developers Conference，是由苹果公司（Apple Inc.）每年举办的一次开发者大会。这个大会通常在6月举行，主要面向全球的开发者和媒体。以下是一些关于WWDC的关键点：</p><ol><li><p><strong>发布新技术和软件</strong>：</p><ul><li>苹果通常会在WWDC上发布最新的操作系统更新，包括iOS、iPadOS、macOS、watchOS和tvOS的新版本。</li><li>还会介绍新的软件开发工具和框架，帮助开发者更好地利用苹果生态系统进行应用开发。</li></ul></li><li><p><strong>主题演讲（Keynote）</strong>：</p><ul><li>WWDC的主题演讲是整个大会的亮点之一，苹果高层管理人员会在这里展示新的产品、软件功能和技术进展。</li><li>这场演讲通常会吸引大量媒体和开发者的关注，因为它揭示了苹果未来一年的重要发展方向。</li></ul></li><li><p><strong>开发者讲座和工作坊</strong>：</p><ul><li>在会议期间，苹果会安排多场技术讲座和实践工作坊，涵盖各种开发主题，如应用设计、编程技巧、用户体验优化等。</li><li>这些活动由苹果工程师主持，旨在帮助开发者深入理解新技术并应用到自己的项目中。</li></ul></li><li><p><strong>实验室和一对一指导</strong>：</p><ul><li>开发者可以预约参加实验室，与苹果的工程师进行一对一的交流，解决开发过程中遇到的问题。</li><li>这是一个独特的机会，可以获得来自苹果内部专家的直接指导。</li></ul></li><li><p><strong>社交和网络</strong>：</p><ul><li>WWDC也是开发者彼此交流和建立网络的机会。许多人会在会议期间结识新朋友、交换经验和想法。</li></ul></li><li><p><strong>奖项</strong>：</p><ul><li>在WWDC期间，苹果还会颁发Apple Design Awards，以表彰那些在设计和技术上有杰出表现的应用程序。</li></ul></li></ol><h3 id="历史和地点">历史和地点</h3><ul><li><strong>历史</strong>：WWDC最早于1987年举办。从那时起，它逐渐发展成为全球规模最大的技术会议之一。</li><li><strong>地点</strong>：近年来，WWDC主要在美国加利福尼亚州的圣何塞和旧金山举行，但2020年开始由于COVID-19疫情，转为线上举办。</li></ul><h3 id="参与方式">参与方式</h3><ul><li><strong>门票</strong>：WWDC的门票通常通过抽签或申请的方式获得，由于需求量大，竞争非常激烈。</li><li><strong>线上参与</strong>：随着虚拟会议的普及，越来越多的内容也在网上直播，使得全球更多的开发者能够参与。</li></ul><p>WWDC不仅仅是一次展示苹果最新技术的盛会，更是一个连接苹果与全球开发者社区的重要平台。通过参加WWDC，开发者可以第一时间了解苹果的最新动向，学习新技术，并将这些知识应用到自己的开发工作中。</p><h2 id="WWDC24-内容">WWDC24 内容</h2><p><a href="https://developer.apple.com/wwdc24/101">WWDC24</a> 你看了吗<em>以下是 ChatGPT 的回答</em><br>根据假设的WWDC24（2024年全球开发者大会）内容，以下是简要的概括：</p><h3 id="主要发布内容">主要发布内容</h3><ol><li><p><strong>iOS 18</strong>:</p><ul><li>新增隐私保护功能</li><li>改进用户界面设计</li><li>通过人工智能增强应用程序</li></ul></li><li><p><strong>macOS 14</strong>:</p><ul><li>性能优化</li><li>新系统功能</li><li>跨设备兼容性增强</li></ul></li><li><p><strong>watchOS 11</strong>:</p><ul><li>新健康监测功能</li><li>改进运动追踪</li><li>更多表盘选择</li></ul></li><li><p><strong>tvOS 18</strong>:</p><ul><li>更新了用户界面</li><li>增强家庭娱乐功能</li><li>更好地与其他苹果设备连接</li></ul></li></ol><h3 id="新硬件">新硬件</h3><ul><li><strong>新款MacBook</strong>: 搭载最新的M系列芯片，性能提升显著。</li><li><strong>Apple Watch</strong>: 新一代手表，电池寿命更长，具备更多健康监测传感器。</li></ul><h3 id="开发者工具和框架">开发者工具和框架</h3><ul><li><strong>Xcode 15</strong>: 新功能和改进，提高编程和调试效率。</li><li><strong>Swift 6</strong>: 更强大的功能和简化的语法。</li><li><strong>ARKit 5</strong>: 支持更复杂的增强现实体验。</li></ul><h3 id="安全和隐私">安全和隐私</h3><ul><li>推出了新的安全功能，进一步保护用户数据。</li></ul><h3 id="健康和健身">健康和健身</h3><ul><li>新的健康应用和功能，增强个人健康管理。</li></ul><h3 id="Apple-Design-Awards">Apple Design Awards</h3><ul><li>表彰了在设计和技术上表现突出的应用程序。</li></ul><h3 id="开发者讲座和工作坊">开发者讲座和工作坊</h3><ul><li>提供大量技术讲座和实践工作坊，覆盖广泛主题。</li></ul><h3 id="社交和网络">社交和网络</h3><ul><li>通过虚拟和线下结合的方式，提供丰富的交流互动机会。</li></ul><p>这次大会展示了苹果在软硬件方面的最新发展，同时为开发者提供了新的工具和资源，帮助他们在苹果生态系统中创造更出色的应用和体验。</p><h2 id="如何更新-iOS18-beta">如何更新 iOS18 beta</h2><p><img src="C:%5CUsers%5CAdministrator%5CDesktop%5Chexo%5Chexo-theme-Fomalhaut-main%5Cpublic%5Cimg%5CIMG_0873.png" alt="IMG_0876"></p><ol><li>从 app store 中下载<a href="https://apps.apple.com/cn/app/apple-developer/id640199958">apple developer</a></li><li>在账户里，登陆你自己的账号(必须开启 iCloud)</li><li>最后，打开设置<img src="C:%5CUsers%5CAdministrator%5CDesktop%5Chexo%5Chexo-theme-Fomalhaut-main%5Cpublic%5Cimg%5CIMG_0875.jpeg" alt=""></li><li>有一个<img src="C:%5CUsers%5CAdministrator%5CDesktop%5Chexo%5Chexo-theme-Fomalhaut-main%5Cpublic%5Cimg%5CIMG_0876.jpeg" alt="">(因为我已经在里选择了，开始更新了)</li></ol><h3 id="注意事项-ChatGPT-回答">注意事项(ChatGPT 回答)</h3><p>更新到iOS 18 beta版本存在一定的风险和考虑点，以下是一些你可以参考的因素：</p><ol><li><p><strong>不稳定性</strong>：beta版本通常是不稳定的，可能会有很多bug和问题，这些问题可能会影响你的日常使用。</p></li><li><p><strong>兼容性问题</strong>：某些应用程序可能在beta版本上无法正常运行，因为开发者可能还没有进行相应的适配和更新。</p></li><li><p><strong>数据丢失风险</strong>：在升级到beta版本之前，建议你先备份所有重要数据，以防出现意外情况导致数据丢失。</p></li><li><p><strong>电池寿命</strong>：beta版本通常未经过完整的优化，可能会导致设备的电池寿命变短。</p></li><li><p><strong>反馈机会</strong>：如果你喜欢尝试新功能，并愿意帮助Apple改进其软件，可以考虑更新到beta版本并向Apple反馈发现的问题。</p></li><li><p><strong>恢复难度</strong>：如果你决定从beta版本降级到稳定版本，过程可能会比较复杂，并且需要完全擦除设备数据。</p></li></ol><p>如果你对上述风险有所准备，并且愿意承受可能的影响，那么你可以尝试更新到iOS 18 beta。不过，如果你依赖设备进行工作或者学习，建议等待正式版发布后再进行更新，以确保系统的稳定性和可靠性。</p><p>所以要<strong>慎重考虑</strong>啊，不要在常用设备上测试，如果真的想试一试，就备份吧。<br>如果你有足够的耐心，就等到正式版发布吧</p><h2 id="结尾">结尾</h2><p>这就是关于 WWDC的全部内容了，感谢你可以看到这里，这里也要感谢 ChatGPT 的回答(我也累啊)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;到了WWDC24&lt;/h1&gt;
+&lt;h2 id=&quot;WWDC-是什么&quot;&gt;WWDC 是什么&lt;/h2&gt;
+&lt;p&gt;WWDC 是什么 &lt;em&gt;以下是 ChatGPT 的回答&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;WWDC，全称是Worldwide Developers Conference，是由苹果公司</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>如何用hexo做blog</title>
