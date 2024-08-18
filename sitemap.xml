@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://smpblog.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2024-08-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://smpblog.github.io/posts/89cdb9dd.html</loc>
     
     <lastmod>2024-08-18</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://smpblog.github.io/posts/b17900da.html</loc>
-    
-    <lastmod>2024-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://smpblog.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2024-06-23</lastmod>
     
